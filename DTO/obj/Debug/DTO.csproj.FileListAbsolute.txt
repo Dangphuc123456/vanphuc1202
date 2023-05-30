@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DTO\bin\Debug\DTO.dll
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DTO\bin\Debug\DTO.pdb
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DTO\obj\Debug\DTO.dll
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DTO\obj\Debug\DTO.pdb

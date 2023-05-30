@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\BUS\bin\Debug\BUS.dll
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\BUS\bin\Debug\BUS.pdb
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\BUS\bin\Debug\DAL.dll
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\BUS\bin\Debug\DTO.dll
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\BUS\bin\Debug\DAL.pdb
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\BUS\bin\Debug\DTO.pdb
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\BUS\obj\Debug\BUS.dll
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\BUS\obj\Debug\BUS.pdb
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\BUS\bin\Debug\DAL.dll.config

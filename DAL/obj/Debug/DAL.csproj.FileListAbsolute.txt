@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DAL\bin\Debug\DAL.dll
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DAL\bin\Debug\DAL.pdb
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DAL\bin\Debug\DTO.dll
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DAL\bin\Debug\DTO.pdb
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DAL\obj\Debug\DAL.dll
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DAL\obj\Debug\DAL.pdb
+C:\Users\Dell\source\repos\DangVanPhuc_10121268_DA1_QLNH\DAL\bin\Debug\DAL.dll.config

@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\TestProject1\\TestProject1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\BUS\\BUS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\BUS\\BUS.csproj",
+        "projectName": "BUS",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\BUS\\BUS.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DAL\\DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DAL\\DAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DangVanPhuc_10121268_DA1_QLNH\\GUI.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DangVanPhuc_10121268_DA1_QLNH\\GUI.csproj",
+        "projectName": "GUI",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DangVanPhuc_10121268_DA1_QLNH\\GUI.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\BUS\\BUS.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\BUS\\BUS.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DTO\\DTO.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DTO\\DTO.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\TestProject1\\TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\BUS\\BUS.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\BUS\\BUS.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DangVanPhuc_10121268_DA1_QLNH\\GUI.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DangVanPhuc_10121268_DA1_QLNH\\GUI.csproj"
+              },
+              "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\DangVanPhuc_10121268_DA1_QLNH\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
